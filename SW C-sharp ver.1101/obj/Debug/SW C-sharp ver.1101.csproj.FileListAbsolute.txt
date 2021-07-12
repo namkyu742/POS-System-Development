@@ -1,0 +1,28 @@
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\bin\Debug\SW C-sharp ver.1101.exe.config
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\bin\Debug\SW C-sharp ver.1101.exe
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\bin\Debug\SW C-sharp ver.1101.pdb
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._01_Main_Window.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._02_Management_mode.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._03_Restaurant_rename.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101.Properties.Resources.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW C-sharp ver.1101.csproj.GenerateResource.cache
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW C-sharp ver.1101.exe
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW C-sharp ver.1101.pdb
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._08_Change_Password.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._09_Input_Password.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._04_Change_Tablenum.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._05_Product_Management.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._10_Product_Add.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._13_Material_Add.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._14_Material_Delete.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._15_Material_Restock.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW C-sharp ver.1101.csprojAssemblyReference.cache
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._11_Product_Alter.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._12_Product_Delete.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._16_Order_Add.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._07_Stats_View.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._19_Payment.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._20_Payment_Cash.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._17_Order_Alter.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._18_Order_Delete.resources
+C:\Users\namky\source\repos\SW C-sharp ver.1101\SW C-sharp ver.1101\obj\Debug\SW_C_sharp_ver._1101._06_Material_Management.resources

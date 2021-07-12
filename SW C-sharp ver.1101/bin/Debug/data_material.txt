@@ -1,0 +1,17 @@
+8
+none
+1000
+water
+100
+coffee beans
+100
+pork
+100
+beef
+100
+vegetable
+100
+sauce
+100
+flour
+100

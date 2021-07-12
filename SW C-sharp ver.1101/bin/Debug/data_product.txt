@@ -1,0 +1,25 @@
+4
+coffee
+2000
+water
+coffee beans
+none
+0
+Pork cutlet
+7000
+pork
+vegetable
+sauce
+0
+Steak
+10000
+beef
+vegetable
+sauce
+0
+Soup
+3000
+flour
+water
+none
+0

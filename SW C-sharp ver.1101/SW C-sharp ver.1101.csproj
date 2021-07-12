@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EE90999-B166-4CF2-904A-C4E1905D68C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SW_C_sharp_ver._1101</RootNamespace>
+    <AssemblyName>SW C-sharp ver.1101</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01_Main_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01_Main_Window.Designer.cs">
+      <DependentUpon>01_Main_Window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02_Management_mode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_Management_mode.Designer.cs">
+      <DependentUpon>02_Management_mode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="03_Restaurant_rename.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="03_Restaurant_rename.Designer.cs">
+      <DependentUpon>03_Restaurant_rename.cs</DependentUpon>
+    </Compile>
+    <Compile Include="05_Product_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05_Product_Management.Designer.cs">
+      <DependentUpon>05_Product_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="06_Material_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06_Material_Management.Designer.cs">
+      <DependentUpon>06_Material_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="08_Change_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="08_Change_Password.Designer.cs">
+      <DependentUpon>08_Change_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09_Input_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09_Input_Password.Designer.cs">
+      <DependentUpon>09_Input_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="04_Change_Tablenum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04_Change_Tablenum.Designer.cs">
+      <DependentUpon>04_Change_Tablenum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10_Product_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10_Product_Add.Designer.cs">
+      <DependentUpon>10_Product_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="11_Product_Alter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11_Product_Alter.Designer.cs">
+      <DependentUpon>11_Product_Alter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07_Stats_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07_Stats_View.Designer.cs">
+      <DependentUpon>07_Stats_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12_Product_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12_Product_Delete.Designer.cs">
+      <DependentUpon>12_Product_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="13_Material_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13_Material_Add.Designer.cs">
+      <DependentUpon>13_Material_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="14_Material_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="14_Material_Delete.Designer.cs">
+      <DependentUpon>14_Material_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="15_Material_Restock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="15_Material_Restock.Designer.cs">
+      <DependentUpon>15_Material_Restock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="16_Order_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="16_Order_Add.Designer.cs">
+      <DependentUpon>16_Order_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="17_Order_Alter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="17_Order_Alter.Designer.cs">
+      <DependentUpon>17_Order_Alter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="18_Order_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="18_Order_Delete.Designer.cs">
+      <DependentUpon>18_Order_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="19_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="19_Payment.Designer.cs">
+      <DependentUpon>19_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="20_Payment_Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="20_Payment_Cash.Designer.cs">
+      <DependentUpon>20_Payment_Cash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="01_Main_Window.resx">
+      <DependentUpon>01_Main_Window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="02_Management_mode.resx">
+      <DependentUpon>02_Management_mode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="03_Restaurant_rename.resx">
+      <DependentUpon>03_Restaurant_rename.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05_Product_Management.resx">
+      <DependentUpon>05_Product_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06_Material_Management.resx">
+      <DependentUpon>06_Material_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07_Stats_View.resx">
+      <DependentUpon>07_Stats_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08_Change_Password.resx">
+      <DependentUpon>08_Change_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09_Input_Password.resx">
+      <DependentUpon>09_Input_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="04_Change_Tablenum.resx">
+      <DependentUpon>04_Change_Tablenum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10_Product_Add.resx">
+      <DependentUpon>10_Product_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11_Product_Alter.resx">
+      <DependentUpon>11_Product_Alter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12_Product_Delete.resx">
+      <DependentUpon>12_Product_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13_Material_Add.resx">
+      <DependentUpon>13_Material_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="14_Material_Delete.resx">
+      <DependentUpon>14_Material_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="15_Material_Restock.resx">
+      <DependentUpon>15_Material_Restock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="16_Order_Add.resx">
+      <DependentUpon>16_Order_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="17_Order_Alter.resx">
+      <DependentUpon>17_Order_Alter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="18_Order_Delete.resx">
+      <DependentUpon>18_Order_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="19_Payment.resx">
+      <DependentUpon>19_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="20_Payment_Cash.resx">
+      <DependentUpon>20_Payment_Cash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ClassDiagram1 - 복사본.cd" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SW_C_sharp_ver._1101._01_Main_Window" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QSAAAgEBACAAABAAAACAAEACAQIQgAAAsCiABwhIEAE=</HashCode>
+      <FileName>01_Main_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._02_Management_mode" Collapsed="true">
+    <Position X="3" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADABABAAAACAAAACAMA7AAAAAHAPAgAAAAA=</HashCode>
+      <FileName>02_Management_mode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._03_Restaurant_rename" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>03_Restaurant_rename.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._04_Change_Tablenum" Collapsed="true">
+    <Position X="3" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>04_Change_Tablenum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._05_Product_Management" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAQAACAAAACAEA4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>05_Product_Management.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._06_Material_Management" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACAAAACAEA4AAAAEHAIAAAAAgA=</HashCode>
+      <FileName>06_Material_Management.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._07_Stats_View" Collapsed="true">
+    <Position X="3" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAEABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>07_Stats_View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._08_Change_Password" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>08_Change_Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._09_Input_Password" Collapsed="true">
+    <Position X="4.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABABAAAACAAAADAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>09_Input_Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._10_Product_Add" Collapsed="true">
+    <Position X="0.75" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABQQAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>10_Product_Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._11_Product_Alter" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABAQAACAQAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>11_Product_Alter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._12_Product_Delete" Collapsed="true">
+    <Position X="0.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABAQAACAAAACAAAYAAAAAGAAAAACAAA=</HashCode>
+      <FileName>12_Product_Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._13_Material_Add" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAADAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>13_Material_Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._14_Material_Delete" Collapsed="true">
+    <Position X="3" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAADAAAACAAAACAAAYAAAAAGAAAAAAIAA=</HashCode>
+      <FileName>14_Material_Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._15_Material_Restock" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAADAUAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>15_Material_Restock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._16_Order_Add" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAABAQAACAAAACAAAYAAAAFGAAAAAAAAA=</HashCode>
+      <FileName>16_Order_Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._17_Order_Alter" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgABAQAACAAAACBAAYAAAAFGAAAAAAAAA=</HashCode>
+      <FileName>17_Order_Alter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._18_Order_Delete" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgABAQAACAAAACACAYAAAABGAAAAAAAAA=</HashCode>
+      <FileName>18_Order_Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._19_Payment" Collapsed="true">
+    <Position X="10" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAACAAABAAAACAAAACAAAYAAAAFGAAAAAAkAI=</HashCode>
+      <FileName>19_Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW_C_sharp_ver._1101._20_Payment_Cash" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAACAAABAIAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>20_Payment_Cash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
